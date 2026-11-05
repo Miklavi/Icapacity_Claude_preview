@@ -1,0 +1,5 @@
+# LAUNCH: replace "Disallow: /" with "Allow: /" and keep the Sitemap line.
+User-agent: *
+Disallow: /
+
+Sitemap: https://icapacity.com.au/sitemap.xml
